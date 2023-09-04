@@ -20,4 +20,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-twentyone=21
+twentyone = 21
